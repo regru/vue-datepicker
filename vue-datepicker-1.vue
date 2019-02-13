@@ -349,19 +349,6 @@ table {
   background: #F50057;
   color: #FFF !important;
 }
-
-::-webkit-scrollbar {
-  width: 2px;
-}
-
-::-webkit-scrollbar-track {
-  background: #E3E3E3;
-}
-
-::-webkit-scrollbar-thumb {
-  background: #C1C1C1;
-  border-radius: 2px;
-}
 </style>
 <template>
   <div :class="option.wrapperClass">
